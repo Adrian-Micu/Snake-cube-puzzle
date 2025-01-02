@@ -1,7 +1,7 @@
-#Snake-cube-puzzle  
+# Snake-cube-puzzle  
 Snake cube puzzle solver
 
-##Description of subject:  
+## Description of subject:  
 There is a 4x4x4 King Snake with the following matrix: [3, 4, 4, 4, 2, 4, 2, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 2, 4, 3, 3, 2, 4, 2, 3, 2, 2, 2, 2, 2, 3, 2, 2, 2, 2, 4, 2, 4].  
 See Snake_King_Unraveled.jpg for reference.  
   <img src="https://github.com/Adrian-Micu/Snake-cube-puzzle/blob/main/Images/Snake_King_Unraveled.jpg">  
