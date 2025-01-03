@@ -11,7 +11,6 @@ See Snake_King_Unraveled.jpg for reference.
 The end goal is to develop a program to solve the puzzle and display the solution in order to solve the puzzle in real life.  
 See Snake_King_Solved.jpg and Snake_King_Solution.jpg for reference.  
 ![Snake_King_Solved](/Images/Snake_King_Solved.jpg)
-![Snake_King_Solution](Images/Snake_King_Solution.jpg)  
 
 #### Snake King Cube puzzle Algorithm:  
 Before I can start writing the program to solve the puzzle I must identify the mathematical algorithm for solving the puzzle.  
