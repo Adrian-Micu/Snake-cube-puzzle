@@ -22,6 +22,7 @@ Before I can start writing the program to solve the puzzle I must identify the m
 
 ### Snake Cube Puzzle  
 This section is for a smaller 3x3x3 cube.  
+#### Description of subject:  
 As I do not own a 3x3x3 cube I will be using the one described in the following image:  
 ![Snake cube 3x3x3 unraveled](/Images/penup_20250103_132812.jpg)  
 As can be seen from the image this Snake Cube's list is: [3, 2, 2, 3, 2, 3, 2, 2, 3, 3, 2, 2, 2, 3, 3, 3, 3]  
