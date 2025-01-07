@@ -32,3 +32,8 @@ We can see that the Snake Cube list is made up only of 2 and 3 elements, so we c
 * 0 for flexible joints, these will replace our "2" elements from the list.
 
 As such, we have snake = [1, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1]  
+
+if we consider the cube to be in a x, y, z axis system then the segments can go in the following 6 directions:  
+* Along the x axis: right (+x); left (-x);
+* Along the y axis: up (+y); down (-y);  
+* Along the z axis: forwards (+z); backwards (-z);
