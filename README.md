@@ -26,3 +26,9 @@ As I do not own a 3x3x3 cube I will be using the one described in the following 
 ![Snake cube 3x3x3 unraveled](/Images/penup_20250103_132812.jpg)  
 As can be seen from the image this Snake Cube's list is: [3, 2, 2, 3, 2, 3, 2, 2, 3, 3, 2, 2, 2, 3, 3, 3, 3]  
 Sanity check = Sum Snake - (Len Snake - 1) = 43 - (17 - 1) = 27  
+
+We can see that the Snake Cube list is made up only of 2 and 3 elements, so we can consider to represent these elements as folows:  
+* 1 for fixed segments, these will replace our "3" elements from the list.
+* 0 for flexible joints, these will replace our "2" elements from the list.
+
+As such, we have snake = [1, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1]  
