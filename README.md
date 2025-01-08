@@ -38,3 +38,11 @@ if we consider the cube to be in a x, y, z axis system then the segments can go 
 * Along the x axis: right (+x); left (-x);
 * Along the y axis: up (+y); down (-y);  
 * Along the z axis: forwards (+z); backwards (-z);
+
+See following image for reference:  
+![Snake cube 3x3x3 in xyz axis](/Images/penup_20250108_150540.jpg)  
+
+As such the program will have to try and place the segments in the directions mentioned above without over stepping the limit of the final cube in xyz coordinates.  
+
+And once it finds the solution, it should provide the output in console.  
+If no solution is found then it should say that there is no solution for such input.  
